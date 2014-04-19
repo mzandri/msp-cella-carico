@@ -1,0 +1,5 @@
+syntax: regexp
+Debug/*
+syntax: glob
+MSP430F5435A.ccxml
+lnk_msp430f5435a.cmd
